@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web 4.0, Digital Marketing, SEO, SMM
 - 🌱 I’m currently learning ...Blockchain
 - 💞️ I’m looking to collaborate on ...Blockchain
-- 📫 How to reach me ...
+- 📫 How to reach me ... mehedi@crackbrigade.com
 
 <!---
 sagor171/sagor171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
